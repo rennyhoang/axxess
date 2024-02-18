@@ -49,10 +49,10 @@ const Sidebar = () => {
             </ul>
           </li>
           <li>
-            <a className="text-xl hover:text-accent">Insights</a>
+            <a className="text-xl hover:text-accent" href="">Insights</a>
           </li>
           <li>
-            <a className="text-xl hover:text-accent">Past Symptoms</a>
+            <a className="text-xl hover:text-accent" href="">Past Symptoms</a>
           </li>
           </ul>
         </div>
