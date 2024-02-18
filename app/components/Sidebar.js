@@ -29,7 +29,7 @@ const Sidebar = () => {
             aria-label="close sidebar"
             className="drawer-overlay"
           ></label>
-          <ul className="drawer-overlay menu p-4 w-80 text-base-content bg-secondary">
+          <ul className="menu p-4 w-80 text-base-content bg-secondary">
             {/* Sidebar content here */}
             <li>
             <a className="text-xl">Personalized Treatment Plan</a>
